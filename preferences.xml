@@ -1,10 +1,8 @@
-{	"favorite_film": "Stories_about_Harry_Potter",
-	"favorite_series": "Game_of_Thrones",
-	"favorite_food": "pizza",
-	"favorite_season": "summer",
-	"want_to_travel": "Italy",
-	"favorite_book": "Theodore Dreiser:American tragedy"
-
-
-
-}
+<favorites>	
+    <favorite_film>Stories_about_Harry_Potter></favorite_film>
+	<favorite_series>Game_of_Thrones</favorite_series>
+	<favorite_food>pizza</favorite_food>
+	<favorite_season>summer</favorite_season>
+	<want_to_travel>Italy</want_to_travel>
+	<favorite_book>Theodore_Dreiser_American_tragedy</favorite_book>
+        </favorites>
