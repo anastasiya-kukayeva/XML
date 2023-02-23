@@ -1,9 +1,8 @@
-{	"person_name": "Nastya",
-	"person_age": 29,
-	"amount_of_pets":{
-		
-			"type_of_pet": "cat",
-			"cat_name": "Zhorik"}
-					{"desired_Salary": 2000$
-}
-}
+<about_me>
+<person_name>Nastya</person_name>
+    <person_age>29</person_age>
+         <amount_of_pets>1</amount_of_pets>
+             <type_of_pet>cat</type_of_pet>
+			        <cat_name>Zhorik</cat_name>
+			    		<desired_Salary>2000$</desired_Salary>
+</about_me>
