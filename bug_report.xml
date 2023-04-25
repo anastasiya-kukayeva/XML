@@ -1,0 +1,13 @@
+<Bug_report_structure>
+  <ID>123</ID>
+    <Title>Что?Где?Когда?</Title>
+      <Version>1.2.19</Version>
+       <Severity>Trivial</Severity>
+        <Priority>Low</Priority>
+          <Precondition>Steps</Precondition>
+           <Environment>Devices,Browser</Environment>
+            <STR>Steps to reproduce</STR>
+              <ER>Expected result</ER>
+                <AR>Actual Result</AR>
+                  <Attachments>links</Attachments>
+</Bug_report_structure>
